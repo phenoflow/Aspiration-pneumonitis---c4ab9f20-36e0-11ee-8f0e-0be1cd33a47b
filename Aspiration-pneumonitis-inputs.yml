@@ -1,0 +1,33 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/aspiration-pneumonitis-liquid---primary.py
+inputModule3:
+  class: File
+  path: python/aspiration---primary.py
+inputModule4:
+  class: File
+  path: python/aspiration-pneumonitis-vomit---primary.py
+inputModule5:
+  class: File
+  path: python/aspiration-pneumonitis-pneumonia---primary.py
+inputModule6:
+  class: File
+  path: python/aspiration-pneumonitis-inhalation---primary.py
+inputModule7:
+  class: File
+  path: python/aspiration-pneumonitis-essence---primary.py
+inputModule8:
+  class: File
+  path: python/other-aspiration-pneumonitis---primary.py
+inputModule9:
+  class: File
+  path: python/aspiration-pneumonitis---primary.py
+inputModule10:
+  class: File
+  path: python/aspiration-pneumonitis---secondary.py
+inputModule11:
+  class: File
+  path: python/output-cases.py
